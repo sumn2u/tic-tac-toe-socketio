@@ -1,15 +1,23 @@
 # Tic Tac Toe
 
-Two player tic tac toer game using [Node js](https://nodejs.org/en/) and [Socket.io] (https://socket.io/)
+Two player tic tac toer game using [Node js](https://nodejs.org/en/) and [Socket.io](https://socket.io/)
 
-To run this game: 
 
-1. Clone this repository
+## Prerequisites
 
-2. Run `npm install`
+-   [Node.js](http://nodejs.org/) >= v4
+-   [Yarn](https://yarnpkg.com/en/docs/install#mac-stable), a new package manager. Install with `brew install yarn` or `npm install yarn -g`
 
-3. Run `npm start`
+## Running locally
+`git clone  https://github.com/sumn2u/tic-tac-toe-socketio.git` 
 
-4. Go to http://localhost:5000/
+`yarn install` installs dependencies
+
+`yarn start` will run a development server with the component's demo app at http://localhost:3000
+
 
 ## Screenshots
+![Game](https://raw.githubusercontent.com/sumn2u/tic-tac-toe-socketio/master/screenshots/login.png)
+![Play](https://raw.githubusercontent.com/sumn2u/tic-tac-toe-socketio/master/screenshots/play_game.png)
+![Player Two](https://raw.githubusercontent.com/sumn2u/tic-tac-toe-socketio/master/screenshots/player-2.png)
+
