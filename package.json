@@ -12,7 +12,7 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "eslint-plugin-import": "^2.7.0",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "jquery": "^3.1.1",
     "skeleton": "^0.1.2",
     "skeleton-css": "^2.0.4",
